@@ -1,0 +1,13 @@
+.form-div, .link {
+    padding: 0 20%;
+}
+
+.heading {
+    padding-bottom: 4%;
+    color: green;
+}
+
+.doc-link {
+    font-size: 2rem;
+    color: orange;
+}
